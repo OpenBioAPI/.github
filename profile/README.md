@@ -2,6 +2,8 @@
 
 Welcome to **OpenBioAPI** – an initiative dedicated to gathering, curating, and standardizing OpenAPI specifications for Bioinformatics Databases and Tools available on the internet.
 
+**Currently all code under this Org is vibe-coded slop.** This includes this Readme, except this note. But I am somewhat serious about the idea.
+
 ## Mission
 
 The mission is to provide a centralized, well-maintained collection of OpenAPI specifications for the bioinformatics ecosystem.
